@@ -35,7 +35,7 @@ Follow the steps below to set up and run the project:
 
 1. 🔁 Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bloodgroup-classifier.git
+   git clone https://github.com/your-username/Blood_Group_Prediction_Using_Fingerprint_patterns.git
 2. 📂 Navigate to the project directory:
    ```bash
    cd bloodgroup-classifier
